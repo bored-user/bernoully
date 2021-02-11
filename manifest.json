@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Bernoully",
+    "version": "1.0",
+    "description": "Automatically login into Meu Bernoulli (school platform)",
+    "icons": {
+        "48": "icons/bernoully-48.png",
+        "96": "icons/bernoully-96.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://meu.bernoulli.com.br/login"
+            ],
+            "js": [
+                "bernoully.js"
+            ]
+        }
+    ]
+}
