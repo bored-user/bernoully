@@ -1,6 +1,6 @@
 # bernoully
 
-This is the source code for the Bernoully extension. It automatically logs in to [Meu Bernoulli](https://meu.bernoulli.com.br)
+This is the source code for the Bernoully browser extension. It automatically logs in to [Meu Bernoulli](https://meu.bernoulli.com.br)
 
 ### Configuration
 
